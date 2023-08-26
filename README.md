@@ -1,4 +1,4 @@
-#ShootLatVaLoot
+# ShootLatVaLoot
 my first unity game that i published
 ## Getting Started
 1-clone this repository
