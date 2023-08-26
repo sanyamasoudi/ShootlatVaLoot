@@ -15,16 +15,16 @@ Make sure you have the below requirements before starting:
 - Basic Knowledge about Unity and C#
 ## Some Info About Game
 
-Game genre: rating,ranking
-Platforms supported: android
-Theme and Play Environment: colorful and joyful theme ,It reminds you of the memorable Angry Bird game. 
-Characters: colorful birds,donkey shrek,javad razavian(famous actor in iran),androteit,zombie,cat,sleeping child(reza)
-Number of steps: 7
-In-App Payment: 0
-In-app Ads: 0
-Backgrounde Sound: active
-Game Run Time: 1 hour
-How To Play: srag and drop player to hit enemies
+- Game genre: rating,ranking
+- Platforms supported: android
+- Theme and Play Environment: colorful and joyful theme ,It reminds you of the memorable Angry Bird game. 
+- Characters: colorful birds,donkey shrek,javad razavian(famous actor in iran),androteit,zombie,cat,sleeping child(reza)
+- Number of steps: 7
+- In-App Payment: 0
+- In-app Ads: 0
+- Backgrounde Sound: active
+- Game Run Time: 1 hour
+- How To Play: srag and drop player to hit enemies
 
-Published in Bazar
+## Published in Bazar
 
