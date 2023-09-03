@@ -26,5 +26,4 @@ Make sure you have the below requirements before starting:
 - Game Run Time: 1 hour
 - How To Play: srag and drop player to hit enemies
 
-## Published in Bazar
 
